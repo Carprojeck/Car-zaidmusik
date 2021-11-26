@@ -73,7 +73,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "Source Code 📦", url="https://github.com/itsunknown-12/Zaid-Vc-Player"
+                        "Source Code 📦", url="https://t.me/gwmuluajg"
                     )
                 ],
                 [
@@ -81,7 +81,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                         "Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "Support Group ⚜️", url="https://t.me/daarkevilshadow"
                     )
                 ]
             ]
